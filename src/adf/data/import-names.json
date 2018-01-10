@@ -1,0 +1,65 @@
+[
+  {
+    "oldadf": "ng2-activiti-analytics",
+    "newadf": "@alfresco/adf-insights"
+  },
+  {
+    "oldadf": "ng2-activiti-diagrams",
+    "newadf": "@alfresco/adf-insights"
+  },
+  {
+    "oldadf": "ng2-activiti-form",
+    "newadf": "@alfresco/adf-core"
+  },
+  {
+    "oldadf": "ng2-alfresco-core",
+    "newadf": "@alfresco/adf-core"
+  },   {
+    "oldadf": "ng2-alfresco-login",
+    "newadf": "@alfresco/adf-core"
+  },
+  {
+    "oldadf": "ng2-alfresco-datatable",
+    "newadf": "@alfresco/adf-core"
+  },
+  {
+    "oldadf": "ng2-alfresco-userinfo",
+    "newadf": "@alfresco/adf-core"
+  },
+  {
+    "oldadf": "ng2-alfresco-viewer",
+    "newadf": "@alfresco/adf-core"
+  },
+  {
+    "oldadf": "ng2-activiti-processlist",
+    "newadf": "@alfresco/adf-process-services"
+  },
+  {
+    "oldadf": "ng2-activiti-tasklist",
+    "newadf": "@alfresco/adf-process-services"
+  },
+  {
+    "oldadf": "ng2-alfresco-documentlist",
+    "newadf": "@alfresco/adf-content-services"
+  },
+  {
+    "oldadf": "ng2-alfresco-search",
+    "newadf": "@alfresco/adf-content-services"
+  },
+  {
+    "oldadf": "ng2-alfresco-social",
+    "newadf": "@alfresco/adf-content-services"
+  },
+  {
+    "oldadf": "ng2-alfresco-tag",
+    "newadf": "@alfresco/adf-content-services"
+  },
+  {
+    "oldadf": "ng2-alfresco-upload",
+    "newadf": "@alfresco/adf-content-services"
+  },
+  {
+    "oldadf": "ng2-alfresco-webscript",
+    "newadf": "@alfresco/adf-content-services"
+  }
+]

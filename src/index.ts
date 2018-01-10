@@ -1,0 +1,10 @@
+export {Rule as SwitchIdentifiersRule} from './rules/switchIdentifiersRule';
+export {Rule as SwitchStringLiteralsRule} from './rules/switchStringLiteralsRule';
+export {Rule as SwitchTemplatesRule} from './rules/switchTemplatesRule';
+export {Rule as SwitchStylesheetsRule} from './rules/switchStylesheetsRule';
+export {Rule as SwitchPropertyNamesRule} from './rules/switchPropertyNamesRule';
+export {Rule as SwitchImportRule} from './rules/switchImportRule';
+export {Rule as SwitchTypeConstructorRule} from './rules/switchTypeConstructorRule';
+export {Rule as SwitchTypeFunctionRule} from './rules/switchTypeFunctionRule';
+export {Rule as SwitchTypeLiteralRule} from './rules/switchTypeLiteralRule';
+export {Rule as SwitchPropertyDecoratorRule} from './rules/switchPropertyDecoratorRule';

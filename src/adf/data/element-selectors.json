@@ -1,0 +1,178 @@
+[
+  {
+    "newadf": "adf-analytics",
+    "oldadf": "activiti-analytics"
+  },
+  {
+    "newadf": "adf-analytics-generator",
+    "oldadf": "activiti-analytics-generator"
+  },
+  {
+    "newadf": "adf-diagram-publish-task",
+    "oldadf": "diagram-alfresco-publish-task"
+  },
+  {
+    "newadf": "adf-diagram-icon-publish-task",
+    "oldadf": "diagram-icon-alfresco-publish-task"
+  },
+  {
+    "newadf": "adf-diagram",
+    "oldadf": "activiti-diagram"
+  },
+  {
+    "newadf": "adf-form",
+    "oldadf": "activiti-form"
+  },
+  {
+    "newadf": "adf-start-form",
+    "oldadf": "activiti-start-form"
+  },
+  {
+    "newadf": "adf-content",
+    "oldadf": "activiti-content"
+  },
+  {
+    "newadf": "adf-process-instance-comments",
+    "oldadf": "activiti-process-instance-comments"
+  },
+  {
+    "newadf": "adf-process-instance-filters",
+    "oldadf": "activiti-process-instance-filters"
+  },
+  {
+    "newadf": "adf-process-instance-details",
+    "oldadf": "activiti-process-instance-details"
+  },
+  {
+    "newadf": "adf-process-instance-header",
+    "oldadf": "activiti-process-instance-header"
+  },
+  {
+    "newadf": "adf-process-instance-tasks",
+    "oldadf": "activiti-process-instance-tasks"
+  },
+  {
+    "newadf": "adf-process-instance-list",
+    "oldadf": "activiti-process-instance-list"
+  },
+  {
+    "newadf": "adf-start-process",
+    "oldadf": "activiti-start-process"
+  },
+  {
+    "newadf": "adf-apps",
+    "oldadf": "activiti-apps"
+  },
+  {
+    "newadf": "adf-checklist",
+    "oldadf": "activiti-checklist"
+  },
+  {
+    "newadf": "adf-comments",
+    "oldadf": "activiti-comments"
+  },
+  {
+    "newadf": "adf-people-search",
+    "oldadf": "activiti-people-search"
+  },
+  {
+    "newadf": "adf-people",
+    "oldadf": "activiti-peoples"
+  },
+  {
+    "newadf": "adf-start-task",
+    "oldadf": "activiti-start-task"
+  },
+  {
+    "newadf": "adf-task-details",
+    "oldadf": "activiti-task-details"
+  },
+  {
+    "newadf": "adf-task-header",
+    "oldadf": "activiti-task-header"
+  },
+  {
+    "newadf": "adf-tasklist",
+    "oldadf": "activiti-tasklist"
+  },
+  {
+    "newadf": "adf-pagination",
+    "oldadf": "alfresco-pagination"
+  },
+  {
+    "newadf": "adf-datatable-cell",
+    "oldadf": "alfresco-datatable-cell"
+  },
+  {
+    "newadf": "adf-datatable",
+    "oldadf": "alfresco-datatable"
+  },
+  {
+    "newadf": "adf-breadcrumb",
+    "oldadf": "alfresco-document-list-breadcrumb"
+  },
+  {
+    "newadf": "adf-document-list",
+    "oldadf": "alfresco-document-list"
+  },
+  {
+    "newadf": "adf-document-list",
+    "oldadf": "alfresco-document-list"
+  },
+  {
+    "newadf": "adf-search-autocomplete",
+    "oldadf": "alfresco-search-autocomplete"
+  },
+  {
+    "newadf": "adf-search-control",
+    "oldadf": "alfresco-search-control"
+  },
+  {
+    "newadf": "adf-search",
+    "oldadf": "alfresco-search"
+  },
+  {
+    "newadf": "adf-tag-node-actions-list",
+    "oldadf": "alfresco-tag-node-actions-list"
+  },
+  {
+    "newadf": "adf-tag-list",
+    "oldadf": "alfresco-tag-list"
+  },
+  {
+    "newadf": "adf-tag-node-list",
+    "oldadf": "alfresco-tag-node-list"
+  },
+  {
+    "newadf": "adf-file-uploading-list",
+    "oldadf": "alfresco-file-uploading-list"
+  },
+  {
+    "newadf": "adf-upload-button",
+    "oldadf": "alfresco-upload-button"
+  },
+  {
+    "newadf": "adf-upload-drag-area",
+    "oldadf": "alfresco-upload-drag-area"
+  },
+  {
+    "newadf": "adf-webscript-get",
+    "oldadf": "alfresco-webscript-get"
+  },
+  {
+    "newadf": "adf-viewer",
+    "oldadf": "alfresco-viewer"
+  },
+  {
+    "newadf": "adf-viewer-extension",
+    "oldadf": "extension-viewer"
+  },
+  {
+    "newadf": "adf-userinfo",
+    "oldadf": "ng2-alfresco-userinfo"
+  },
+  {
+    "newadf": "adf-login",
+    "oldadf": "alfresco-login"
+  }
+]

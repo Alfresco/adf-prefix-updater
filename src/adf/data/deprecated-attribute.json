@@ -1,0 +1,16 @@
+[
+  {
+    "oldadf": "showNotificationBar",
+    "newadf": ""
+  },  {
+    "oldadf": "searchSubmit",
+    "newadf": ""
+  },
+   {
+    "oldadf": "searchChange",
+    "newadf": ""
+  },{
+    "oldadf": "autocomplete",
+    "newadf": ""
+  }
+]

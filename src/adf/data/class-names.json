@@ -1,0 +1,42 @@
+[
+  {
+    "oldadf": "AlfrescoAuthenticationService",
+    "newadf": "AuthenticationService"
+  },
+  {
+    "oldadf": "AlfrescoSettingsService",
+    "newadf": "SettingsService"
+  },
+  {
+    "oldadf": "ActivitiForm",
+    "newadf": "FormComponent"
+  },
+  {
+    "oldadf": "AlfrescoContentService",
+    "newadf": "ContentService"
+  },
+  {
+    "oldadf": "AlfrescoTranslationService",
+    "newadf": "TranslationService"
+  },
+  {
+    "oldadf": "ActivitiTaskListService",
+    "newadf": "TaskListService"
+  },
+  {
+    "oldadf": "ActivitiFormModule",
+    "newadf": "FormModule"
+  },
+  {
+    "oldadf": "ActivitiTaskListModule",
+    "newadf": "TaskListModule"
+  },
+  {
+    "oldadf": "ActivitiProcessListModule",
+    "newadf": "ProcessListModule"
+  },
+  {
+    "oldadf": "ActivitiTaskListModule",
+    "newadf": "TaskListModule"
+  }
+]
