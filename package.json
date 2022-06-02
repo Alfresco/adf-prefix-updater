@@ -30,7 +30,7 @@
   "devDependencies": {
     "@angular/cdk": "github:angular/cdk-builds",
     "@angular/common": "^4.3.3",
-    "@angular/core": "^4.3.3",
+    "@angular/core": "^11.0.5",
     "@angular/material": "github:angular/material2-builds",
     "@angular/platform-browser": "^4.3.3",
     "@types/chalk": "^0.4.31",
